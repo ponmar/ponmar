@@ -1,6 +1,6 @@
 # Projects
 
-Non-work related projects by me, Pontus Markström.
+Major non-work related programming projects by me, Pontus Markström.
 
 ## Misc Programming
 * [FileDB2](https://github.com/ponmar/filedb2) (2021-2024)
@@ -8,10 +8,7 @@ Non-work related projects by me, Pontus Markström.
 * [Linker2](https://github.com/ponmar/linker2) (2023-2024)
 * [FileDB](https://github.com/ponmar/filedb) (2016-2017)
 * [Skynet Remote](https://github.com/ponmar/skynetremote) (2015)
-* Skynet (2013-2015)
-* Crypto (2009)
-* Picture Album Generator (2007)
-* HTPC Front End (HFE) (2004)
+* [Skynet](https://github.com/ponmar/projects/blob/main/projects/skynet/skynet.md) (2013-2015)
 
 ## Games & Graphics
 * [Race2k2](https://drive.google.com/drive/folders/1xs8oNkufM9pY0HBzyRL5-QLYBrGgvlLj) (2020-2022)
@@ -25,8 +22,3 @@ Non-work related projects by me, Pontus Markström.
 * SpaceWars (2005)
 * Portals (2005)
 * Raytracing (2003)
-
-## Build
-* Portable Audio (2008)
-* Mini-ITX (2005)
-* IR Receiver (2003)
