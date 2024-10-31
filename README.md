@@ -1,6 +1,6 @@
 # Projects
 
-Major non-work related programming projects by me, Pontus Markström.
+Major non-work related programming projects by me, [Pontus Markström](https://github.com/ponmar).
 
 ## Misc Programming
 * [FileDB2](https://github.com/ponmar/filedb2) (2021-2024)
