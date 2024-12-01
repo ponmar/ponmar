@@ -15,7 +15,7 @@ My major non-work related programming projects are listed below.
 * [Skynet](https://github.com/ponmar/projects/blob/main/projects/skynet/skynet.md) (2013-2015)
 
 ## Game Development
-* [Race2k2](https://drive.google.com/drive/folders/1xs8oNkufM9pY0HBzyRL5-QLYBrGgvlLj) (2020-2022)
+* [Race2k2](https://drive.google.com/drive/folders/1xs8oNkufM9pY0HBzyRL5-QLYBrGgvlLj) (2020-2024)
 * Platformer (non-public beta release on Steam) (2017-2021)
 * Race2k (2009-2016)
 * Tanks (2010-2015)
